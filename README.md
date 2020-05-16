@@ -17,11 +17,10 @@ All materials here are **free and open**. Feel free to send in any edits, add an
 
 Check out [our website](http://ed.developh.org) for more details and for all the other materials that we have to offer, such as videos and more!
 
-
-## What is Developh?
-Developh aims to provide computing education and inclusive opportunities to the student tech community, nurturing concrete innovation among students for social impact. We aim to break divides in technology in the developing world by making innovation more open, equitable, and purposeful.
-
 * [Website](http://developh.org)
 * [Facebook](http://fb.com/develophorg)
 * [Twitter](http://twitter.com/develophorg)
 * [Email](mailto:ed@developh.org)
+
+## What is Developh?
+Developh aims to provide computing education and inclusive opportunities to the student tech community, nurturing concrete innovation among students for social impact. We aim to break divides in technology in the developing world by making innovation more open, equitable, and purposeful.
